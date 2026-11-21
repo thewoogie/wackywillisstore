@@ -1,5 +1,5 @@
 body {
-  background: #34a8eb;
+  background: #000000;
 }
 p {
   color: black;
@@ -34,17 +34,17 @@ a {
   font-family: monospace;
   font-size: 20px;
   padding: 30px;
-  background-color: #34a8eb;
+  background-color: #000000;
 }
 ul {
-  background-color: #dddddd;
+  background-color: #000000;
 }
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: #000000;
 }
 
 li {
@@ -65,7 +65,7 @@ li a:hover {
   color: white
 }
 header {
-  background-color: #34a8eb;
+  background-color: #000000;
   padding: 30px;
   text-align: center;
   font-size: 35px;
